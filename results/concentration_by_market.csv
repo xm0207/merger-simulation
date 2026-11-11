@@ -1,0 +1,377 @@
+merger,basis,market_ids,firms_pre,combined_share_pct,max_party_share_pct,min_party_share_pct,hhi_pre,hhi_post,delta_hhi,eu_hmg_indication
+Firm 3 + Firm 4,volume,C01Q1,5,10.761,6.698,4.063,3593.038,3647.465,54.427,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C01Q2,5,6.432,3.926,2.506,5312.296,5331.976,19.680,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C03Q1,5,14.701,10.065,4.636,3734.607,3827.928,93.322,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C03Q2,5,29.490,19.631,9.859,2903.092,3290.164,387.073,outside safe harbours
+Firm 3 + Firm 4,volume,C04Q1,5,32.368,23.898,8.470,3210.360,3615.193,404.833,outside safe harbours
+Firm 3 + Firm 4,volume,C04Q2,5,25.444,15.462,9.982,2800.853,3109.533,308.679,outside safe harbours
+Firm 3 + Firm 4,volume,C05Q1,5,23.217,12.939,10.278,3143.314,3409.279,265.965,"outside HHI safe harbours, but combined share < 25%"
+Firm 3 + Firm 4,volume,C05Q2,5,14.582,10.020,4.562,3849.283,3940.710,91.427,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C07Q1,5,16.003,9.178,6.825,2962.662,3087.946,125.284,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C07Q2,5,10.798,5.571,5.226,4998.595,5056.832,58.238,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C08Q1,5,14.645,11.783,2.862,3047.019,3114.475,67.455,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C08Q2,5,2.425,1.373,1.052,7674.105,7676.994,2.889,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C11Q1,5,33.093,18.916,14.178,2993.576,3529.933,536.357,outside safe harbours
+Firm 3 + Firm 4,volume,C11Q2,5,28.714,15.441,13.273,3257.010,3666.901,409.891,outside safe harbours
+Firm 3 + Firm 4,volume,C12Q1,5,20.421,11.267,9.154,3333.134,3539.406,206.272,"outside HHI safe harbours, but combined share < 25%"
+Firm 3 + Firm 4,volume,C12Q2,5,11.032,7.070,3.962,3568.655,3624.681,56.026,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C13Q1,5,9.481,7.339,2.142,3898.097,3929.538,31.441,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C13Q2,5,15.673,13.324,2.349,3177.085,3239.676,62.591,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C14Q1,5,38.620,31.787,6.832,2902.787,3337.144,434.356,outside safe harbours
+Firm 3 + Firm 4,volume,C14Q2,5,13.722,9.791,3.931,3098.643,3175.615,76.972,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C15Q1,5,11.534,6.153,5.381,4184.812,4251.028,66.216,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C15Q2,5,14.199,11.754,2.445,3804.016,3861.499,57.483,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C16Q1,5,16.914,9.019,7.894,2904.794,3047.199,142.405,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C16Q2,5,12.730,7.646,5.083,3621.205,3698.943,77.738,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C18Q1,5,9.368,4.974,4.394,4181.026,4224.736,43.710,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C18Q2,5,10.655,5.633,5.022,4111.564,4168.146,56.582,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C20Q1,5,29.015,19.533,9.483,3268.029,3638.468,370.439,outside safe harbours
+Firm 3 + Firm 4,volume,C20Q2,5,13.691,8.572,5.120,4486.337,4574.106,87.769,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C23Q1,5,20.316,16.991,3.325,3084.532,3197.512,112.980,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C23Q2,5,34.104,23.817,10.287,3149.757,3639.751,489.994,outside safe harbours
+Firm 3 + Firm 4,volume,C24Q1,5,33.578,23.547,10.031,2923.391,3395.802,472.411,outside safe harbours
+Firm 3 + Firm 4,volume,C24Q2,5,14.653,10.894,3.758,2782.925,2864.813,81.888,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C25Q1,5,46.729,31.090,15.640,2631.864,3604.328,972.463,outside safe harbours
+Firm 3 + Firm 4,volume,C25Q2,5,21.180,10.755,10.425,4048.408,4272.660,224.252,"outside HHI safe harbours, but combined share < 25%"
+Firm 3 + Firm 4,volume,C26Q1,5,12.250,6.263,5.987,3834.133,3909.121,74.988,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C26Q2,5,25.053,16.917,8.136,3307.766,3583.048,275.282,outside safe harbours
+Firm 3 + Firm 4,volume,C27Q1,5,11.131,6.718,4.412,5441.331,5500.618,59.287,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C27Q2,5,13.390,7.797,5.593,3554.720,3641.942,87.222,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C29Q1,5,20.891,17.544,3.347,3415.540,3532.980,117.440,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C29Q2,5,29.138,24.418,4.720,3140.689,3371.217,230.528,outside safe harbours
+Firm 3 + Firm 4,volume,C30Q1,5,14.758,8.277,6.481,3442.785,3550.076,107.291,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C30Q2,5,27.699,18.847,8.852,2986.706,3320.357,333.651,outside safe harbours
+Firm 3 + Firm 4,volume,C31Q1,5,20.964,13.829,7.134,3013.847,3211.175,197.328,"outside HHI safe harbours, but combined share < 25%"
+Firm 3 + Firm 4,volume,C31Q2,5,17.845,13.610,4.236,3578.665,3693.955,115.290,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C32Q1,5,23.534,13.818,9.716,3211.257,3479.761,268.505,"outside HHI safe harbours, but combined share < 25%"
+Firm 3 + Firm 4,volume,C32Q2,5,15.471,11.379,4.092,3178.457,3271.580,93.122,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C33Q1,5,30.331,15.266,15.065,2952.603,3412.568,459.964,outside safe harbours
+Firm 3 + Firm 4,volume,C33Q2,5,10.496,7.929,2.567,3946.731,3987.439,40.708,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C34Q1,5,23.590,18.804,4.786,3104.081,3284.076,179.996,"outside HHI safe harbours, but combined share < 25%"
+Firm 3 + Firm 4,volume,C34Q2,5,10.220,8.056,2.164,3536.587,3571.453,34.866,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C35Q1,5,11.227,9.084,2.142,3579.489,3618.414,38.925,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C35Q2,5,14.808,8.816,5.992,3745.279,3850.928,105.649,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C36Q1,5,27.232,18.691,8.542,3077.142,3396.441,319.299,outside safe harbours
+Firm 3 + Firm 4,volume,C36Q2,5,30.290,21.139,9.151,2752.564,3139.448,386.884,outside safe harbours
+Firm 3 + Firm 4,volume,C37Q1,5,24.249,17.409,6.840,3065.357,3303.521,238.164,"outside HHI safe harbours, but combined share < 25%"
+Firm 3 + Firm 4,volume,C37Q2,5,33.275,26.207,7.069,2981.124,3351.606,370.482,outside safe harbours
+Firm 3 + Firm 4,volume,C38Q1,5,31.112,23.300,7.812,2647.086,3011.119,364.033,outside safe harbours
+Firm 3 + Firm 4,volume,C38Q2,5,29.886,18.669,11.217,2531.123,2949.939,418.817,outside safe harbours
+Firm 3 + Firm 4,volume,C39Q1,5,16.285,10.363,5.922,3856.869,3979.614,122.745,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C39Q2,5,17.999,13.327,4.672,3411.385,3535.923,124.538,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C40Q1,5,27.719,19.412,8.307,2789.260,3111.769,322.509,outside safe harbours
+Firm 3 + Firm 4,volume,C40Q2,5,27.978,17.489,10.488,3019.542,3386.409,366.867,outside safe harbours
+Firm 3 + Firm 4,volume,C41Q1,5,21.392,17.823,3.569,3563.960,3691.179,127.219,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C41Q2,5,28.497,14.811,13.686,2755.822,3161.240,405.419,outside safe harbours
+Firm 3 + Firm 4,volume,C43Q1,5,10.119,8.764,1.355,4241.210,4264.965,23.754,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C43Q2,5,14.730,12.455,2.276,3270.738,3327.429,56.691,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C44Q1,5,44.559,24.418,20.141,2499.625,3483.244,983.619,outside safe harbours
+Firm 3 + Firm 4,volume,C44Q2,5,25.041,13.502,11.539,3041.697,3353.293,311.595,outside safe harbours
+Firm 3 + Firm 4,volume,C45Q1,5,23.953,16.894,7.059,2751.480,2989.996,238.516,"outside HHI safe harbours, but combined share < 25%"
+Firm 3 + Firm 4,volume,C45Q2,5,25.926,15.281,10.645,3065.080,3390.404,325.324,outside safe harbours
+Firm 3 + Firm 4,volume,C47Q1,5,27.019,18.065,8.954,3520.750,3844.252,323.501,outside safe harbours
+Firm 3 + Firm 4,volume,C47Q2,5,27.669,23.340,4.329,3256.632,3458.707,202.075,outside safe harbours
+Firm 3 + Firm 4,volume,C48Q1,5,25.698,16.055,9.643,3220.710,3530.355,309.644,outside safe harbours
+Firm 3 + Firm 4,volume,C48Q2,5,11.644,7.336,4.308,4012.794,4076.001,63.206,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C49Q1,5,13.226,10.299,2.927,4005.147,4065.430,60.283,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C49Q2,5,15.374,11.273,4.101,3638.217,3730.681,92.464,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C52Q1,5,14.534,8.288,6.245,3670.753,3774.285,103.532,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C52Q2,5,30.985,16.153,14.831,2634.502,3113.654,479.152,outside safe harbours
+Firm 3 + Firm 4,volume,C53Q1,5,24.477,15.460,9.017,2808.641,3087.437,278.797,"outside HHI safe harbours, but combined share < 25%"
+Firm 3 + Firm 4,volume,C53Q2,5,20.870,13.305,7.565,3620.172,3821.478,201.305,"outside HHI safe harbours, but combined share < 25%"
+Firm 3 + Firm 4,volume,C54Q1,5,22.000,11.358,10.642,3221.559,3463.294,241.735,"outside HHI safe harbours, but combined share < 25%"
+Firm 3 + Firm 4,volume,C54Q2,5,35.880,19.237,16.643,2672.546,3312.855,640.308,outside safe harbours
+Firm 3 + Firm 4,volume,C55Q1,5,17.160,14.705,2.455,3683.358,3755.554,72.196,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C55Q2,5,27.140,20.691,6.449,2994.632,3261.509,266.876,outside safe harbours
+Firm 3 + Firm 4,volume,C56Q1,5,22.205,18.873,3.332,3232.564,3358.321,125.757,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C56Q2,5,9.534,5.022,4.512,3832.700,3878.018,45.318,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C58Q1,5,58.630,41.608,17.023,2831.072,4247.613,1416.541,outside safe harbours
+Firm 3 + Firm 4,volume,C58Q2,5,35.080,18.174,16.907,2683.545,3298.052,614.507,outside safe harbours
+Firm 3 + Firm 4,volume,C61Q1,5,34.446,26.702,7.743,3151.531,3565.063,413.531,outside safe harbours
+Firm 3 + Firm 4,volume,C61Q2,5,26.413,13.451,12.961,3068.275,3416.971,348.696,outside safe harbours
+Firm 3 + Firm 4,volume,C63Q1,5,16.004,12.880,3.124,2761.561,2842.027,80.466,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C63Q2,5,7.278,4.777,2.501,4236.044,4259.938,23.893,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,volume,C65Q1,5,27.054,14.308,12.745,3014.624,3379.359,364.735,outside safe harbours
+Firm 3 + Firm 4,volume,C65Q2,5,15.580,9.537,6.043,3665.284,3780.546,115.262,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C01Q1,5,11.164,6.296,4.868,3404.401,3465.698,61.297,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C01Q2,5,6.626,3.637,2.989,5306.827,5328.571,21.745,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C03Q1,5,14.827,8.102,6.725,3733.160,3842.134,108.974,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C03Q2,5,28.923,19.858,9.064,2907.360,3267.363,360.003,outside safe harbours
+Firm 3 + Firm 4,value,C04Q1,5,28.619,20.552,8.067,3292.954,3624.536,331.582,outside safe harbours
+Firm 3 + Firm 4,value,C04Q2,5,28.088,17.756,10.332,2678.634,3045.537,366.903,outside safe harbours
+Firm 3 + Firm 4,value,C05Q1,5,22.517,11.733,10.784,3164.355,3417.421,253.065,"outside HHI safe harbours, but combined share < 25%"
+Firm 3 + Firm 4,value,C05Q2,5,17.091,11.650,5.442,3471.692,3598.480,126.788,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C07Q1,5,15.489,8.077,7.411,2884.575,3004.300,119.725,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C07Q2,5,13.693,7.295,6.398,4534.016,4627.359,93.343,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C08Q1,5,12.687,9.035,3.652,3106.507,3172.503,65.996,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C08Q2,5,2.725,1.371,1.354,7574.933,7578.646,3.713,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C11Q1,5,29.550,16.956,12.594,3019.684,3446.780,427.097,outside safe harbours
+Firm 3 + Firm 4,value,C11Q2,5,32.221,18.327,13.894,3000.472,3509.745,509.274,outside safe harbours
+Firm 3 + Firm 4,value,C12Q1,5,19.151,10.119,9.032,3262.257,3445.050,182.793,"outside HHI safe harbours, but combined share < 25%"
+Firm 3 + Firm 4,value,C12Q2,5,12.392,8.270,4.122,3435.049,3503.226,68.177,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C13Q1,5,8.982,6.508,2.474,3849.292,3881.495,32.203,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C13Q2,5,15.718,12.984,2.734,3219.725,3290.720,70.995,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C14Q1,5,37.913,30.830,7.083,2888.945,3325.683,436.738,outside safe harbours
+Firm 3 + Firm 4,value,C14Q2,5,13.114,9.008,4.106,3169.097,3243.068,73.971,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C15Q1,5,11.531,5.949,5.583,4175.660,4242.080,66.420,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C15Q2,5,14.050,11.554,2.495,3797.209,3854.877,57.668,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C16Q1,5,17.173,8.720,8.454,2842.984,2990.407,147.423,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C16Q2,5,13.153,6.741,6.413,3576.224,3662.674,86.450,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C18Q1,5,8.385,4.246,4.139,4472.964,4508.113,35.149,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C18Q2,5,11.549,6.015,5.534,4079.909,4146.477,66.568,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C20Q1,5,29.973,18.888,11.085,3081.111,3499.864,418.753,outside safe harbours
+Firm 3 + Firm 4,value,C20Q2,5,12.187,6.816,5.371,4712.961,4786.177,73.216,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C23Q1,5,19.014,15.676,3.338,3070.314,3174.979,104.665,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C23Q2,5,28.413,18.997,9.416,3224.075,3581.828,357.753,outside safe harbours
+Firm 3 + Firm 4,value,C24Q1,5,30.805,23.943,6.862,3064.870,3393.481,328.611,outside safe harbours
+Firm 3 + Firm 4,value,C24Q2,5,18.550,13.782,4.768,2725.938,2857.362,131.424,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C25Q1,5,45.311,30.368,14.942,2608.272,3515.827,907.555,outside safe harbours
+Firm 3 + Firm 4,value,C25Q2,5,19.452,11.826,7.626,4216.760,4397.127,180.367,"outside HHI safe harbours, but combined share < 25%"
+Firm 3 + Firm 4,value,C26Q1,5,10.907,6.283,4.625,3913.297,3971.409,58.112,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C26Q2,5,19.305,10.485,8.820,3567.735,3752.689,184.954,"outside HHI safe harbours, but combined share < 25%"
+Firm 3 + Firm 4,value,C27Q1,5,10.959,5.875,5.085,5529.093,5588.834,59.742,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C27Q2,5,16.225,9.649,6.576,3323.619,3450.515,126.896,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C29Q1,5,21.407,18.051,3.356,3072.460,3193.618,121.158,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C29Q2,5,30.967,26.247,4.720,3063.525,3311.275,247.750,outside safe harbours
+Firm 3 + Firm 4,value,C30Q1,5,15.975,9.819,6.156,3361.545,3482.438,120.894,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C30Q2,5,24.954,14.978,9.975,3080.823,3379.645,298.822,"outside HHI safe harbours, but combined share < 25%"
+Firm 3 + Firm 4,value,C31Q1,5,20.411,13.993,6.417,3203.884,3383.490,179.606,"outside HHI safe harbours, but combined share < 25%"
+Firm 3 + Firm 4,value,C31Q2,5,18.716,14.148,4.568,3602.201,3731.447,129.246,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C32Q1,5,20.784,13.427,7.356,3377.720,3575.272,197.552,"outside HHI safe harbours, but combined share < 25%"
+Firm 3 + Firm 4,value,C32Q2,5,17.375,12.859,4.516,3118.945,3235.092,116.147,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C33Q1,5,27.672,14.669,13.003,2846.530,3228.004,381.473,outside safe harbours
+Firm 3 + Firm 4,value,C33Q2,5,12.165,9.379,2.786,3807.033,3859.296,52.264,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C34Q1,5,20.582,16.528,4.054,3174.235,3308.246,134.010,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C34Q2,5,10.645,8.503,2.142,3534.247,3570.679,36.432,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C35Q1,5,12.898,10.383,2.515,3470.734,3522.953,52.218,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C35Q2,5,16.903,11.289,5.613,3429.939,3556.683,126.744,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C36Q1,5,26.568,16.294,10.274,3022.786,3357.586,334.800,outside safe harbours
+Firm 3 + Firm 4,value,C36Q2,5,31.267,19.101,12.166,2669.710,3134.480,464.770,outside safe harbours
+Firm 3 + Firm 4,value,C37Q1,5,27.020,20.133,6.886,2875.698,3152.985,277.287,outside safe harbours
+Firm 3 + Firm 4,value,C37Q2,5,28.487,20.153,8.334,3090.419,3426.316,335.897,outside safe harbours
+Firm 3 + Firm 4,value,C38Q1,5,31.079,23.802,7.277,2623.641,2970.051,346.410,outside safe harbours
+Firm 3 + Firm 4,value,C38Q2,5,26.873,17.608,9.264,2734.058,3060.318,326.260,outside safe harbours
+Firm 3 + Firm 4,value,C39Q1,5,16.931,9.497,7.434,3771.245,3912.442,141.198,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C39Q2,5,18.691,14.133,4.558,3356.848,3485.691,128.843,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C40Q1,5,25.354,15.781,9.573,2794.745,3096.894,302.149,outside safe harbours
+Firm 3 + Firm 4,value,C40Q2,5,27.133,16.927,10.206,3054.027,3399.534,345.507,outside safe harbours
+Firm 3 + Firm 4,value,C41Q1,5,22.072,17.801,4.271,3536.637,3688.690,152.053,"outside HHI safe harbours, but combined share < 25%"
+Firm 3 + Firm 4,value,C41Q2,5,27.190,15.770,11.420,2820.005,3180.200,360.195,outside safe harbours
+Firm 3 + Firm 4,value,C43Q1,5,9.975,8.205,1.771,4132.481,4161.536,29.056,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C43Q2,5,17.110,14.724,2.386,3154.789,3225.047,70.258,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C44Q1,5,39.126,24.150,14.976,2588.180,3311.525,723.345,outside safe harbours
+Firm 3 + Firm 4,value,C44Q2,5,24.711,12.574,12.137,3157.931,3463.150,305.219,"outside HHI safe harbours, but combined share < 25%"
+Firm 3 + Firm 4,value,C45Q1,5,27.927,20.222,7.706,2647.732,2959.372,311.640,outside safe harbours
+Firm 3 + Firm 4,value,C45Q2,5,24.060,14.565,9.495,3004.869,3281.465,276.596,"outside HHI safe harbours, but combined share < 25%"
+Firm 3 + Firm 4,value,C47Q1,5,25.540,16.092,9.448,3528.180,3832.247,304.068,outside safe harbours
+Firm 3 + Firm 4,value,C47Q2,5,24.226,19.174,5.053,3267.513,3461.274,193.761,"outside HHI safe harbours, but combined share < 25%"
+Firm 3 + Firm 4,value,C48Q1,5,26.617,15.505,11.112,3123.811,3468.400,344.589,outside safe harbours
+Firm 3 + Firm 4,value,C48Q2,5,12.985,8.215,4.770,3907.130,3985.507,78.377,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C49Q1,5,10.761,7.637,3.124,4008.186,4055.905,47.720,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C49Q2,5,17.716,12.448,5.269,3383.962,3515.126,131.164,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C52Q1,5,12.526,6.758,5.768,3746.506,3824.464,77.958,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C52Q2,5,28.890,15.626,13.264,2840.877,3255.396,414.519,outside safe harbours
+Firm 3 + Firm 4,value,C53Q1,5,20.910,14.325,6.586,3339.502,3528.177,188.675,"outside HHI safe harbours, but combined share < 25%"
+Firm 3 + Firm 4,value,C53Q2,5,20.917,13.231,7.685,3806.153,4009.528,203.375,"outside HHI safe harbours, but combined share < 25%"
+Firm 3 + Firm 4,value,C54Q1,5,23.846,12.925,10.921,3116.485,3398.794,282.308,"outside HHI safe harbours, but combined share < 25%"
+Firm 3 + Firm 4,value,C54Q2,5,36.796,19.423,17.372,2633.162,3308.019,674.857,outside safe harbours
+Firm 3 + Firm 4,value,C55Q1,5,14.616,11.600,3.015,3736.366,3806.327,69.961,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C55Q2,5,25.183,17.409,7.774,2929.453,3200.139,270.686,outside safe harbours
+Firm 3 + Firm 4,value,C56Q1,5,22.482,18.322,4.160,3121.503,3273.948,152.446,"outside HHI safe harbours, but combined share < 25%"
+Firm 3 + Firm 4,value,C56Q2,5,10.808,5.610,5.198,3653.900,3712.222,58.322,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C58Q1,5,57.921,40.305,17.616,2766.548,4186.587,1420.039,outside safe harbours
+Firm 3 + Firm 4,value,C58Q2,5,32.958,19.212,13.746,2752.104,3280.288,528.184,outside safe harbours
+Firm 3 + Firm 4,value,C61Q1,5,34.472,27.553,6.919,3151.649,3532.925,381.275,outside safe harbours
+Firm 3 + Firm 4,value,C61Q2,5,25.095,13.507,11.588,3196.027,3509.059,313.032,outside safe harbours
+Firm 3 + Firm 4,value,C63Q1,5,16.838,13.060,3.778,2683.964,2782.650,98.686,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C63Q2,5,8.087,5.308,2.779,4085.277,4114.776,29.499,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)"
+Firm 3 + Firm 4,value,C65Q1,5,33.145,18.633,14.512,2771.620,3312.427,540.807,outside safe harbours
+Firm 3 + Firm 4,value,C65Q2,5,17.754,10.420,7.334,3156.720,3309.551,152.831,"outside HHI safe harbours, but combined share < 25%"
+Firm 1 + Firm 2,volume,C01Q1,5,78.769,52.029,26.740,3593.038,6375.526,2782.488,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,volume,C01Q2,5,92.858,68.551,24.306,5312.296,8644.748,3332.452,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,volume,C03Q1,5,84.786,45.326,39.460,3734.607,7311.744,3577.138,outside safe harbours
+Firm 1 + Firm 2,volume,C03Q2,5,68.438,40.317,28.121,2903.092,5170.563,2267.471,outside safe harbours
+Firm 1 + Firm 2,volume,C04Q1,5,66.620,46.489,20.131,3210.360,5082.109,1871.749,outside safe harbours
+Firm 1 + Firm 2,volume,C04Q2,5,69.135,39.202,29.933,2800.853,5147.690,2346.837,outside safe harbours
+Firm 1 + Firm 2,volume,C05Q1,5,75.752,38.003,37.749,3143.314,6012.450,2869.136,outside safe harbours
+Firm 1 + Firm 2,volume,C05Q2,5,83.230,53.009,30.221,3849.283,7053.267,3203.984,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,volume,C07Q1,5,73.886,37.132,36.753,2962.662,5692.125,2729.462,outside safe harbours
+Firm 1 + Firm 2,volume,C07Q2,5,84.762,68.151,16.611,4998.595,7262.673,2264.079,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,volume,C08Q1,5,73.541,42.075,31.466,3047.019,5694.897,2647.878,outside safe harbours
+Firm 1 + Firm 2,volume,C08Q2,5,97.311,86.972,10.339,7674.105,9472.491,1798.386,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,volume,C11Q1,5,66.128,44.193,21.934,2993.576,4932.275,1938.699,outside safe harbours
+Firm 1 + Firm 2,volume,C11Q2,5,68.696,49.777,18.919,3257.010,5140.443,1883.433,outside safe harbours
+Firm 1 + Firm 2,volume,C12Q1,5,77.014,47.173,29.841,3333.134,6148.543,2815.410,outside safe harbours
+Firm 1 + Firm 2,volume,C12Q2,5,81.503,48.685,32.818,3568.655,6764.169,3195.514,outside safe harbours
+Firm 1 + Firm 2,volume,C13Q1,5,84.988,52.434,32.554,3898.097,7311.922,3413.825,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,volume,C13Q2,5,76.504,40.044,36.460,3177.085,6097.067,2919.982,outside safe harbours
+Firm 1 + Firm 2,volume,C14Q1,5,60.721,31.283,29.439,2902.787,4744.619,1841.832,outside safe harbours
+Firm 1 + Firm 2,volume,C14Q2,5,71.954,45.812,26.142,3098.643,5493.890,2395.247,outside safe harbours
+Firm 1 + Firm 2,volume,C15Q1,5,87.124,56.229,30.894,4184.812,7659.127,3474.315,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,volume,C15Q2,5,83.565,50.820,32.744,3804.016,7132.171,3328.155,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,volume,C16Q1,5,72.694,38.681,34.013,2904.794,5536.131,2631.336,outside safe harbours
+Firm 1 + Firm 2,volume,C16Q2,5,83.620,45.513,38.108,3621.205,7089.944,3468.739,outside safe harbours
+Firm 1 + Firm 2,volume,C18Q1,5,84.292,58.642,25.650,4181.026,7189.396,3008.371,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,volume,C18Q2,5,87.172,54.776,32.396,4111.564,7660.611,3549.047,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,volume,C20Q1,5,69.755,48.335,21.420,3268.029,5338.672,2070.644,outside safe harbours
+Firm 1 + Firm 2,volume,C20Q2,5,78.666,64.173,14.492,4486.337,6346.385,1860.048,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,volume,C23Q1,5,74.186,38.270,35.915,3084.532,5833.527,2748.996,outside safe harbours
+Firm 1 + Firm 2,volume,C23Q2,5,63.704,46.731,16.973,3149.757,4736.105,1586.347,outside safe harbours
+Firm 1 + Firm 2,volume,C24Q1,5,65.944,39.820,26.124,2923.391,5003.883,2080.491,outside safe harbours
+Firm 1 + Firm 2,volume,C24Q2,5,67.556,38.861,28.694,2782.925,5013.125,2230.200,outside safe harbours
+Firm 1 + Firm 2,volume,C25Q1,5,52.004,31.784,20.220,2631.864,3917.226,1285.362,outside safe harbours
+Firm 1 + Firm 2,volume,C25Q2,5,78.442,58.552,19.890,4048.408,6377.576,2329.168,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,volume,C26Q1,5,86.475,46.278,40.196,3834.133,7554.585,3720.452,outside safe harbours
+Firm 1 + Firm 2,volume,C26Q2,5,72.868,48.603,24.265,3307.766,5666.467,2358.701,outside safe harbours
+Firm 1 + Firm 2,volume,C27Q1,5,88.443,71.290,17.153,5441.331,7886.965,2445.634,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,volume,C27Q2,5,82.821,44.465,38.356,3554.720,6965.678,3410.958,outside safe harbours
+Firm 1 + Firm 2,volume,C29Q1,5,73.492,50.245,23.247,3415.540,5751.593,2336.053,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,volume,C29Q2,5,68.990,42.828,26.162,3140.689,5381.622,2240.933,outside safe harbours
+Firm 1 + Firm 2,volume,C30Q1,5,81.379,42.434,38.945,3442.785,6747.957,3305.172,outside safe harbours
+Firm 1 + Firm 2,volume,C30Q2,5,71.243,38.288,32.955,2986.706,5510.287,2523.581,outside safe harbours
+Firm 1 + Firm 2,volume,C31Q1,5,70.794,45.343,25.451,3013.847,5321.914,2308.067,outside safe harbours
+Firm 1 + Firm 2,volume,C31Q2,5,81.032,47.268,33.764,3578.665,6770.562,3191.897,outside safe harbours
+Firm 1 + Firm 2,volume,C32Q1,5,76.105,41.912,34.194,3211.257,6077.477,2866.221,outside safe harbours
+Firm 1 + Firm 2,volume,C32Q2,5,77.086,40.229,36.857,3178.457,6143.923,2965.466,outside safe harbours
+Firm 1 + Firm 2,volume,C33Q1,5,67.233,44.259,22.975,2952.603,4986.269,2033.665,outside safe harbours
+Firm 1 + Firm 2,volume,C33Q2,5,86.995,50.090,36.905,3946.731,7643.871,3697.140,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,volume,C34Q1,5,73.500,39.750,33.750,3104.081,5787.196,2683.116,outside safe harbours
+Firm 1 + Firm 2,volume,C34Q2,5,82.394,44.203,38.191,3536.587,6912.893,3376.307,outside safe harbours
+Firm 1 + Firm 2,volume,C35Q1,5,82.357,46.648,35.709,3579.489,6911.028,3331.539,outside safe harbours
+Firm 1 + Firm 2,volume,C35Q2,5,83.499,50.197,33.302,3745.279,7088.600,3343.321,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,volume,C36Q1,5,69.759,45.190,24.569,3077.142,5297.674,2220.532,outside safe harbours
+Firm 1 + Firm 2,volume,C36Q2,5,65.573,38.026,27.547,2752.564,4847.591,2095.026,outside safe harbours
+Firm 1 + Firm 2,volume,C37Q1,5,72.650,42.108,30.541,3065.357,5637.433,2572.076,outside safe harbours
+Firm 1 + Firm 2,volume,C37Q2,5,64.469,41.212,23.257,2981.124,4898.054,1916.931,outside safe harbours
+Firm 1 + Firm 2,volume,C38Q1,5,63.398,33.000,30.397,2647.086,4653.348,2006.261,outside safe harbours
+Firm 1 + Firm 2,volume,C38Q2,5,51.921,39.706,12.214,2531.123,3501.096,969.973,outside safe harbours
+Firm 1 + Firm 2,volume,C39Q1,5,81.661,54.541,27.120,3856.869,6815.171,2958.302,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,volume,C39Q2,5,80.059,41.346,38.713,3411.385,6612.635,3201.250,outside safe harbours
+Firm 1 + Firm 2,volume,C40Q1,5,65.117,41.832,23.285,2789.260,4737.395,1948.135,outside safe harbours
+Firm 1 + Firm 2,volume,C40Q2,5,70.816,42.290,28.526,3019.542,5432.287,2412.745,outside safe harbours
+Firm 1 + Firm 2,volume,C41Q1,5,78.509,47.965,30.543,3563.960,6493.990,2930.030,outside safe harbours
+Firm 1 + Firm 2,volume,C41Q2,5,68.186,36.690,31.496,2755.822,5066.982,2311.160,outside safe harbours
+Firm 1 + Firm 2,volume,C43Q1,5,87.014,57.083,29.931,4241.210,7658.286,3417.075,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,volume,C43Q2,5,77.802,42.649,35.153,3270.738,6269.225,2998.487,outside safe harbours
+Firm 1 + Firm 2,volume,C44Q1,5,54.073,31.155,22.918,2499.625,3927.626,1428.001,outside safe harbours
+Firm 1 + Firm 2,volume,C44Q2,5,69.293,46.758,22.535,3041.697,5149.089,2107.391,outside safe harbours
+Firm 1 + Firm 2,volume,C45Q1,5,68.328,37.504,30.824,2751.480,5063.514,2312.034,outside safe harbours
+Firm 1 + Firm 2,volume,C45Q2,5,70.935,45.279,25.656,3065.080,5388.445,2323.365,outside safe harbours
+Firm 1 + Firm 2,volume,C47Q1,5,72.314,51.955,20.359,3520.750,5636.271,2115.521,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,volume,C47Q2,5,71.285,44.339,26.946,3256.632,5646.168,2389.536,outside safe harbours
+Firm 1 + Firm 2,volume,C48Q1,5,72.676,46.978,25.698,3220.710,5635.194,2414.484,outside safe harbours
+Firm 1 + Firm 2,volume,C48Q2,5,87.470,51.290,36.180,4012.794,7724.106,3711.312,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,volume,C49Q1,5,86.157,52.529,33.627,4005.147,7538.000,3532.852,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,volume,C49Q2,5,82.860,46.830,36.030,3638.217,7012.796,3374.580,outside safe harbours
+Firm 1 + Firm 2,volume,C52Q1,5,78.320,54.076,24.245,3670.753,6292.852,2622.099,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,volume,C52Q2,5,65.100,35.652,29.448,2634.502,4734.285,2099.783,outside safe harbours
+Firm 1 + Firm 2,volume,C53Q1,5,66.126,43.400,22.726,2808.641,4781.283,1972.643,outside safe harbours
+Firm 1 + Firm 2,volume,C53Q2,5,77.193,52.788,24.406,3620.172,6196.801,2576.629,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,volume,C54Q1,5,77.155,39.611,37.544,3221.559,6195.883,2974.324,outside safe harbours
+Firm 1 + Firm 2,volume,C54Q2,5,63.337,34.759,28.578,2672.546,4659.233,1986.686,outside safe harbours
+Firm 1 + Firm 2,volume,C55Q1,5,80.133,51.092,29.040,3683.358,6650.834,2967.476,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,volume,C55Q2,5,69.187,42.276,26.910,2994.632,5269.964,2275.332,outside safe harbours
+Firm 1 + Firm 2,volume,C56Q1,5,68.381,49.000,19.381,3232.564,5131.890,1899.326,outside safe harbours
+Firm 1 + Firm 2,volume,C56Q2,5,86.679,46.181,40.498,3832.700,7573.188,3740.488,outside safe harbours
+Firm 1 + Firm 2,volume,C58Q1,5,40.214,20.430,19.784,2831.072,3639.429,808.357,outside safe harbours
+Firm 1 + Firm 2,volume,C58Q2,5,63.316,37.155,26.161,2683.545,4627.545,1944.001,outside safe harbours
+Firm 1 + Firm 2,volume,C61Q1,5,64.272,44.616,19.656,3151.531,4905.464,1753.933,outside safe harbours
+Firm 1 + Firm 2,volume,C61Q2,5,72.300,43.363,28.936,3068.275,5577.813,2509.539,outside safe harbours
+Firm 1 + Firm 2,volume,C63Q1,5,66.465,39.138,27.327,2761.561,4900.619,2139.058,outside safe harbours
+Firm 1 + Firm 2,volume,C63Q2,5,90.661,52.150,38.510,4236.044,8252.718,4016.673,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,volume,C65Q1,5,72.674,38.159,34.515,3014.624,5648.715,2634.091,outside safe harbours
+Firm 1 + Firm 2,volume,C65Q2,5,77.090,54.555,22.534,3665.284,6124.029,2458.745,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,value,C01Q1,5,77.091,49.306,27.785,3404.401,6144.347,2739.947,outside safe harbours
+Firm 1 + Firm 2,value,C01Q2,5,92.637,68.604,24.033,5306.827,8604.302,3297.476,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,value,C03Q1,5,84.545,47.169,37.377,3733.160,7259.174,3526.014,outside safe harbours
+Firm 1 + Firm 2,value,C03Q2,5,68.825,39.768,29.057,2907.360,5218.422,2311.061,outside safe harbours
+Firm 1 + Firm 2,value,C04Q1,5,70.038,48.267,21.771,3292.954,5394.580,2101.626,outside safe harbours
+Firm 1 + Firm 2,value,C04Q2,5,66.556,35.836,30.720,2678.634,4880.373,2201.740,outside safe harbours
+Firm 1 + Firm 2,value,C05Q1,5,76.264,38.764,37.500,3164.355,6071.663,2907.308,outside safe harbours
+Firm 1 + Firm 2,value,C05Q2,5,80.082,46.816,33.266,3471.692,6586.456,3114.764,outside safe harbours
+Firm 1 + Firm 2,value,C07Q1,5,72.200,37.891,34.309,2884.575,5484.576,2600.001,outside safe harbours
+Firm 1 + Firm 2,value,C07Q2,5,81.424,64.176,17.248,4534.016,6747.838,2213.822,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,value,C08Q1,5,75.635,40.540,35.095,3106.507,5952.026,2845.519,outside safe harbours
+Firm 1 + Firm 2,value,C08Q2,5,97.020,86.357,10.663,7574.933,9416.617,1841.684,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,value,C11Q1,5,69.507,43.616,25.891,3019.684,5278.195,2258.512,outside safe harbours
+Firm 1 + Firm 2,value,C11Q2,5,64.629,45.974,18.654,3000.472,4715.713,1715.241,outside safe harbours
+Firm 1 + Firm 2,value,C12Q1,5,77.909,43.122,34.786,3262.257,6262.408,3000.151,outside safe harbours
+Firm 1 + Firm 2,value,C12Q2,5,78.413,48.974,29.439,3435.049,6318.527,2883.479,outside safe harbours
+Firm 1 + Firm 2,value,C13Q1,5,85.251,50.801,34.450,3849.292,7349.484,3500.193,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,value,C13Q2,5,77.412,38.978,38.434,3219.725,6215.907,2996.182,outside safe harbours
+Firm 1 + Firm 2,value,C14Q1,5,61.293,32.800,28.493,2888.945,4758.069,1869.124,outside safe harbours
+Firm 1 + Firm 2,value,C14Q2,5,72.060,47.321,24.740,3169.097,5510.482,2341.386,outside safe harbours
+Firm 1 + Firm 2,value,C15Q1,5,86.947,56.258,30.690,4175.660,7628.734,3453.074,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,value,C15Q2,5,83.474,50.885,32.590,3797.209,7113.835,3316.627,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,value,C16Q1,5,70.540,40.590,29.950,2842.984,5274.295,2431.311,outside safe harbours
+Firm 1 + Firm 2,value,C16Q2,5,83.342,43.157,40.186,3576.224,7044.786,3468.561,outside safe harbours
+Firm 1 + Firm 2,value,C18Q1,5,84.015,62.633,21.382,4472.964,7151.432,2678.467,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,value,C18Q2,5,85.804,55.648,30.155,4079.909,7436.113,3356.205,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,value,C20Q1,5,68.434,45.560,22.874,3081.111,5165.414,2084.303,outside safe harbours
+Firm 1 + Firm 2,value,C20Q2,5,80.742,66.139,14.603,4712.961,6644.636,1931.675,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,value,C23Q1,5,74.235,39.615,34.620,3070.314,5813.231,2742.917,outside safe harbours
+Firm 1 + Firm 2,value,C23Q2,5,68.093,48.946,19.147,3224.075,5098.390,1874.315,outside safe harbours
+Firm 1 + Firm 2,value,C24Q1,5,68.521,41.207,27.313,3064.870,5315.892,2251.022,outside safe harbours
+Firm 1 + Firm 2,value,C24Q2,5,68.224,36.465,31.759,2725.938,5042.126,2316.187,outside safe harbours
+Firm 1 + Firm 2,value,C25Q1,5,53.104,31.562,21.542,2608.272,3968.101,1359.829,outside safe harbours
+Firm 1 + Firm 2,value,C25Q2,5,80.074,60.194,19.880,4216.760,6610.101,2393.340,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,value,C26Q1,5,87.640,46.045,41.595,3913.297,7743.825,3830.528,outside safe harbours
+Firm 1 + Firm 2,value,C26Q2,5,77.955,51.900,26.055,3567.735,6272.289,2704.553,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,value,C27Q1,5,88.430,72.129,16.301,5529.093,7880.609,2351.516,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,value,C27Q2,5,79.589,40.922,38.668,3323.619,6488.291,3164.672,outside safe harbours
+Firm 1 + Firm 2,value,C29Q1,5,72.091,42.920,29.171,3072.460,5576.490,2504.030,outside safe harbours
+Firm 1 + Firm 2,value,C29Q2,5,66.839,40.963,25.876,3063.525,5183.451,2119.926,outside safe harbours
+Firm 1 + Firm 2,value,C30Q1,5,79.913,42.894,37.019,3361.545,6537.366,3175.821,outside safe harbours
+Firm 1 + Firm 2,value,C30Q2,5,73.775,41.008,32.768,3080.823,5768.273,2687.450,outside safe harbours
+Firm 1 + Firm 2,value,C31Q1,5,72.631,48.165,24.466,3203.884,5560.671,2356.786,outside safe harbours
+Firm 1 + Firm 2,value,C31Q2,5,80.087,49.338,30.750,3602.201,6636.432,3034.231,outside safe harbours
+Firm 1 + Firm 2,value,C32Q1,5,78.758,43.946,34.812,3377.720,6437.391,3059.670,outside safe harbours
+Firm 1 + Firm 2,value,C32Q2,5,75.855,40.205,35.651,3118.945,5985.567,2866.622,outside safe harbours
+Firm 1 + Firm 2,value,C33Q1,5,68.698,41.034,27.664,2846.530,5116.881,2270.351,outside safe harbours
+Firm 1 + Firm 2,value,C33Q2,5,84.459,50.392,34.068,3807.033,7240.467,3433.434,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,value,C34Q1,5,75.506,40.815,34.691,3174.235,6006.064,2831.828,outside safe harbours
+Firm 1 + Firm 2,value,C34Q2,5,81.786,46.165,35.621,3534.247,6823.138,3288.891,outside safe harbours
+Firm 1 + Firm 2,value,C35Q1,5,80.699,45.802,34.897,3470.734,6667.420,3196.686,outside safe harbours
+Firm 1 + Firm 2,value,C35Q2,5,80.165,45.040,35.125,3429.939,6594.000,3164.061,outside safe harbours
+Firm 1 + Firm 2,value,C36Q1,5,70.135,44.592,25.543,3022.786,5300.782,2277.996,outside safe harbours
+Firm 1 + Firm 2,value,C36Q2,5,64.231,38.189,26.043,2669.710,4658.777,1989.068,outside safe harbours
+Firm 1 + Firm 2,value,C37Q1,5,69.120,37.663,31.456,2875.698,5245.192,2369.494,outside safe harbours
+Firm 1 + Firm 2,value,C37Q2,5,68.997,45.180,23.816,3090.419,5242.462,2152.043,outside safe harbours
+Firm 1 + Firm 2,value,C38Q1,5,62.585,32.961,29.624,2623.641,4576.501,1952.860,outside safe harbours
+Firm 1 + Firm 2,value,C38Q2,5,56.787,43.539,13.248,2734.058,3887.673,1153.616,outside safe harbours
+Firm 1 + Firm 2,value,C39Q1,5,80.935,53.620,27.315,3771.245,6700.529,2929.285,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,value,C39Q2,5,79.112,40.592,38.520,3356.848,6484.064,3127.216,outside safe harbours
+Firm 1 + Firm 2,value,C40Q1,5,66.934,42.256,24.677,2794.745,4880.302,2085.557,outside safe harbours
+Firm 1 + Firm 2,value,C40Q2,5,71.400,43.189,28.211,3054.027,5490.863,2436.837,outside safe harbours
+Firm 1 + Firm 2,value,C41Q1,5,77.784,48.282,29.502,3536.637,6385.458,2848.821,outside safe harbours
+Firm 1 + Firm 2,value,C41Q2,5,69.450,37.720,31.731,2820.005,5213.741,2393.737,outside safe harbours
+Firm 1 + Firm 2,value,C43Q1,5,86.588,55.572,31.016,4132.481,7579.694,3447.213,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,value,C43Q2,5,75.064,42.715,32.349,3154.789,5918.398,2763.608,outside safe harbours
+Firm 1 + Firm 2,value,C44Q1,5,59.139,33.375,25.763,2588.180,4307.900,1719.720,outside safe harbours
+Firm 1 + Firm 2,value,C44Q2,5,68.794,49.297,19.497,3157.931,5080.207,1922.276,outside safe harbours
+Firm 1 + Firm 2,value,C45Q1,5,64.666,36.439,28.227,2647.732,4704.881,2057.149,outside safe harbours
+Firm 1 + Firm 2,value,C45Q2,5,71.941,43.000,28.942,3004.869,5493.827,2488.958,outside safe harbours
+Firm 1 + Firm 2,value,C47Q1,5,73.736,52.050,21.686,3528.180,5785.675,2257.496,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,value,C47Q2,5,74.361,44.514,29.847,3267.513,5924.731,2657.218,outside safe harbours
+Firm 1 + Firm 2,value,C48Q1,5,71.413,45.859,25.553,3123.811,5467.534,2343.723,outside safe harbours
+Firm 1 + Firm 2,value,C48Q2,5,85.828,51.045,34.783,3907.130,7458.151,3551.021,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,value,C49Q1,5,88.348,48.455,39.893,4008.186,7874.179,3865.993,outside safe harbours
+Firm 1 + Firm 2,value,C49Q2,5,79.842,41.912,37.930,3383.962,6563.406,3179.444,outside safe harbours
+Firm 1 + Firm 2,value,C52Q1,5,79.835,54.450,25.385,3746.506,6510.918,2764.411,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,value,C52Q2,5,67.681,41.542,26.139,2840.877,5012.636,2171.758,outside safe harbours
+Firm 1 + Firm 2,value,C53Q1,5,72.051,50.954,21.097,3339.502,5489.489,2149.987,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,value,C53Q2,5,77.520,55.566,21.953,3806.153,6245.866,2439.713,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,value,C54Q1,5,75.224,37.681,37.543,3116.485,5945.765,2829.280,outside safe harbours
+Firm 1 + Firm 2,value,C54Q2,5,62.221,34.059,28.162,2633.162,4551.513,1918.351,outside safe harbours
+Firm 1 + Firm 2,value,C55Q1,5,82.045,51.412,30.632,3736.366,6886.119,3149.753,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,value,C55Q2,5,71.143,38.871,32.272,2929.453,5438.334,2508.881,outside safe harbours
+Firm 1 + Firm 2,value,C56Q1,5,67.687,47.647,20.040,3121.503,5031.212,1909.709,outside safe harbours
+Firm 1 + Firm 2,value,C56Q2,5,84.529,43.009,41.520,3653.900,7225.345,3571.445,outside safe harbours
+Firm 1 + Firm 2,value,C58Q1,5,40.575,22.065,18.510,2766.548,3583.397,816.848,outside safe harbours
+Firm 1 + Firm 2,value,C58Q2,5,64.934,38.847,26.087,2752.104,4778.910,2026.805,outside safe harbours
+Firm 1 + Firm 2,value,C61Q1,5,64.244,43.939,20.305,3151.649,4936.038,1784.388,outside safe harbours
+Firm 1 + Firm 2,value,C61Q2,5,73.500,46.136,27.364,3196.027,5720.959,2524.932,outside safe harbours
+Firm 1 + Firm 2,value,C63Q1,5,64.576,38.147,26.430,2683.964,4700.375,2016.411,outside safe harbours
+Firm 1 + Firm 2,value,C63Q2,5,89.108,50.530,38.578,4085.277,7983.953,3898.676,"outside safe harbours (party share >= 50%, a special circumstance)"
+Firm 1 + Firm 2,value,C65Q1,5,66.504,34.324,32.181,2771.620,4980.737,2209.118,outside safe harbours
+Firm 1 + Firm 2,value,C65Q2,5,74.155,46.549,27.606,3156.720,5726.762,2570.042,outside safe harbours

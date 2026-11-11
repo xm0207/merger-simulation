@@ -1,0 +1,25 @@
+check,setting,model,alpha,rho,merging_price_change_pct,rivals_price_change_pct,all_price_change_pct,consumer_surplus_change_pct_of_spending,merging_cmcr_pct,merging_guppi_pct
+nesting parameter,rho = 0.25,Nested logit (rho = 0.25),-23.1650,0.2500,2.1829,0.0941,0.5318,-0.4747,4.3705,2.2719
+nesting parameter,rho = 0.5,Nested logit (rho = 0.5),-16.2322,0.5000,2.6001,0.1624,0.6732,-0.6021,5.4585,2.6909
+nesting parameter,rho = 0.75,Nested logit (rho = 0.75),-9.2994,0.7500,2.7737,0.2167,0.7525,-0.6740,6.0122,2.8715
+logit price coefficient,"95% CI bound, less elastic",Logit (alpha = -28.1),-28.0900,,1.8663,0.0420,0.4243,-0.3760,3.7764,1.9535
+logit price coefficient,"95% CI bound, more elastic",Logit (alpha = -32.1),-32.1055,,1.6329,0.0367,0.3712,-0.3289,3.0273,1.7092
+market size,x0.75,Logit (2SLS),-30.6393,,2.4139,0.1115,0.5939,-0.5223,5.1396,2.5311
+market size,x0.75,Nested logit (rho = 0.5),-16.7737,0.5000,2.8996,0.2277,0.7876,-0.7017,6.4003,3.0130
+market size,x1.5,Logit (2SLS),-29.8126,,1.1247,0.0101,0.2437,-0.2183,1.9855,1.1632
+market size,x1.5,Nested logit (rho = 0.5),-15.9470,0.5000,2.2771,0.1142,0.5674,-0.5102,4.5344,2.3368
+merger efficiencies,merging firms' costs -0%,Logit (2SLS),-30.0978,,1.7418,0.0392,0.3960,-0.3509,3.3590,1.8232
+merger efficiencies,merging firms' costs -2.5%,Logit (2SLS),-30.0978,,0.2634,-0.0036,0.0524,-0.0066,,
+merger efficiencies,merging firms' costs -5%,Logit (2SLS),-30.0978,,-1.2041,-0.0484,-0.2905,0.3552,,
+merger efficiencies,merging firms' costs -7.5%,Logit (2SLS),-30.0978,,-2.6603,-0.0952,-0.6327,0.7352,,
+merger efficiencies,merging firms' costs -10%,Logit (2SLS),-30.0978,,-4.1046,-0.1440,-0.9740,1.1342,,
+merger efficiencies,merging firms' costs -0%,Nested logit (rho = 0.5),-16.2322,0.5000,2.6001,0.1624,0.6732,-0.6021,5.4585,2.6909
+merger efficiencies,merging firms' costs -2.5%,Nested logit (rho = 0.5),-16.2322,0.5000,1.2184,0.0198,0.2710,-0.2087,,
+merger efficiencies,merging firms' costs -5%,Nested logit (rho = 0.5),-16.2322,0.5000,-0.1514,-0.1268,-0.1319,0.2001,,
+merger efficiencies,merging firms' costs -7.5%,Nested logit (rho = 0.5),-16.2322,0.5000,-1.5090,-0.2774,-0.5355,0.6247,,
+merger efficiencies,merging firms' costs -10%,Nested logit (rho = 0.5),-16.2322,0.5000,-2.8540,-0.4319,-0.9394,1.0655,,
+merger efficiencies,merging firms' costs -0%,Random coefficients (BLP),-62.7299,,2.7006,0.1173,0.6586,-0.5815,4.7962,2.5289
+merger efficiencies,merging firms' costs -2.5%,Random coefficients (BLP),-62.7299,,1.0773,0.0180,0.2400,-0.1755,,
+merger efficiencies,merging firms' costs -5%,Random coefficients (BLP),-62.7299,,-0.5316,-0.0831,-0.1771,0.2497,,
+merger efficiencies,merging firms' costs -7.5%,Random coefficients (BLP),-62.7299,,-2.1249,-0.1857,-0.5921,0.6946,,
+merger efficiencies,merging firms' costs -10%,Random coefficients (BLP),-62.7299,,-3.7009,-0.2895,-1.0044,1.1596,,

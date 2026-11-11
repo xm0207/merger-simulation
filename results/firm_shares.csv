@@ -1,0 +1,6 @@
+firm_ids,brands,volume_mean_share_pct,volume_min_share_pct,volume_max_share_pct,value_mean_share_pct
+1,9,41.208,16.973,86.972,40.551
+2,9,33.291,10.339,54.541,33.959
+4,3,11.032,1.373,26.702,10.276
+3,2,10.449,1.052,41.608,10.921
+6,1,4.019,0.100,18.194,4.293

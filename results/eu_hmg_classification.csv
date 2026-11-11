@@ -1,0 +1,11 @@
+merger,basis,eu_hmg_indication,markets
+Firm 3 + Firm 4,volume,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)",47
+Firm 3 + Firm 4,volume,outside safe harbours,36
+Firm 3 + Firm 4,volume,"outside HHI safe harbours, but combined share < 25%",11
+Firm 3 + Firm 4,value,"safe harbour: HHI > 2,000 and delta < 150 (para. 20)",45
+Firm 3 + Firm 4,value,outside safe harbours,33
+Firm 3 + Firm 4,value,"outside HHI safe harbours, but combined share < 25%",16
+Firm 1 + Firm 2,volume,outside safe harbours,68
+Firm 1 + Firm 2,volume,"outside safe harbours (party share >= 50%, a special circumstance)",26
+Firm 1 + Firm 2,value,outside safe harbours,72
+Firm 1 + Firm 2,value,"outside safe harbours (party share >= 50%, a special circumstance)",22

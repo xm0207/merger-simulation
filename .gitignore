@@ -1,0 +1,12 @@
+# No data is stored here: both datasets ship with the pyblp package
+
+# Python
+__pycache__/
+*.egg-info/
+build/
+.pytest_cache/
+.venv/
+venv/
+
+# OS
+.DS_Store

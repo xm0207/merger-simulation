@@ -1,0 +1,6 @@
+controls,instruments,rho,rho_se,price_coef,price_se,first_stage_f_price,first_stage_f_within_share,admissible
+brand FE,Nevo's 20,1.178,0.07863,2.581,2.278,2790,56.75,False
+brand FE,Nevo's 20 + their nest-rival averages,0.539,0.04979,-15.31,1.494,1814,34.16,True
+brand FE,nest-rival averages only,0.8928,0.1936,-69.18,10.91,2.499,2.826,True
+constant only,Nevo's 20,0.4957,0.03659,-4.485,0.594,6712,23.13,True
+"constant, sugar, mushy",Nevo's 20,1.151,0.0503,0.335,0.6682,6431,14.21,False

@@ -1,0 +1,16 @@
+model,firm_ids,product_ids,own_elasticity,diversion_to_partner_pct,diversion_to_outside_pct,margin_pct
+Logit (2SLS),3,F3B06,-3.666,5.214,53.395,29.165
+Logit (2SLS),3,F3B14,-4.197,5.290,54.023,25.080
+Logit (2SLS),4,F4B02,-4.575,4.942,53.378,23.115
+Logit (2SLS),4,F4B10,-3.081,4.910,52.942,35.578
+Logit (2SLS),4,F4B12,-3.075,4.996,53.655,34.895
+Nested logit (rho = 0.5),3,F3B06,-3.765,2.758,28.332,28.233
+Nested logit (rho = 0.5),3,F3B14,-4.381,12.061,28.080,24.009
+Nested logit (rho = 0.5),4,F4B02,-4.832,7.566,27.359,23.030
+Nested logit (rho = 0.5),4,F4B10,-3.285,7.466,26.832,35.422
+Nested logit (rho = 0.5),4,F4B12,-3.231,7.719,27.680,34.817
+Random coefficients (BLP),3,F3B06,-4.659,7.300,52.801,22.807
+Random coefficients (BLP),3,F3B14,-3.716,8.650,30.362,28.163
+Random coefficients (BLP),4,F4B02,-4.697,7.602,33.498,23.059
+Random coefficients (BLP),4,F4B10,-2.971,7.079,32.172,37.010
+Random coefficients (BLP),4,F4B12,-3.531,7.034,40.566,30.895

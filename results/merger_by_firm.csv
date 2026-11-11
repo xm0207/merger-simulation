@@ -1,0 +1,16 @@
+model,firm_ids,merging,price_change_pct,share_change_pct
+Logit (2SLS),1,False,0.0455,0.4214
+Logit (2SLS),2,False,0.0354,0.4750
+Logit (2SLS),3,True,1.6406,-4.5856
+Logit (2SLS),4,True,1.8380,-4.6257
+Logit (2SLS),6,False,0.0056,0.4857
+Nested logit (rho = 0.5),1,False,0.1557,0.7696
+Nested logit (rho = 0.5),2,False,0.1856,0.9758
+Nested logit (rho = 0.5),3,True,2.4212,-6.2286
+Nested logit (rho = 0.5),4,True,2.7702,-6.0811
+Nested logit (rho = 0.5),6,False,0.0432,1.5366
+Random coefficients (BLP),1,False,0.1317,0.7431
+Random coefficients (BLP),2,False,0.1101,0.9207
+Random coefficients (BLP),3,True,2.5622,-6.9342
+Random coefficients (BLP),4,True,2.8321,-6.9355
+Random coefficients (BLP),6,False,0.0296,0.7963

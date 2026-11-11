@@ -1,0 +1,42 @@
+dataset,model,method,parameter,coef,se,nobs,first_stage_f
+cereal,"Logit, no FE",OLS,prices,-10.1199,0.831445,2256,
+cereal,"Logit, no FE",OLS,sugar,0.0461225,0.00422444,2256,
+cereal,"Logit, no FE",OLS,mushy,0.0519997,0.0526268,2256,
+cereal,"Logit, no FE",OLS,const,-2.9928,0.105044,2256,
+cereal,"Logit, no FE",2SLS,prices,-11.1983,0.849845,2256,6431.42
+cereal,"Logit, no FE",2SLS,sugar,0.0476644,0.00421656,2256,
+cereal,"Logit, no FE",2SLS,mushy,0.0459432,0.0527032,2256,
+cereal,"Logit, no FE",2SLS,const,-2.86848,0.108075,2256,
+cereal,"Logit, brand FE",OLS,prices,-28.9499,0.982738,2256,
+cereal,"Logit, brand FE",2SLS,prices,-30.0978,1.02435,2256,2790.05
+cereal,"Nested logit, brand FE, rho estimated (inadmissible)",2SLS,prices,2.5808,2.27802,2256,2790.05
+cereal,"Nested logit, brand FE, rho estimated (inadmissible)",2SLS,log_within_share,1.17841,0.0786285,2256,56.7543
+cereal,"Nested logit, brand FE, rho fixed at 0.25",2SLS,prices,-23.165,0.845849,2256,2790.05
+cereal,"Nested logit, brand FE, rho fixed at 0.5",2SLS,prices,-16.2322,0.696791,2256,2790.05
+cereal,"Nested logit, brand FE, rho fixed at 0.75",2SLS,prices,-9.29939,0.599553,2256,2790.05
+cereal,Random coefficients (BLP),"GMM (pyblp, 1-step)",prices,-62.7299,14.8032,2256,
+cereal,Random coefficients (BLP),"GMM (pyblp, 1-step)",sigma[1],0.558094,0.162533,2256,
+cereal,Random coefficients (BLP),"GMM (pyblp, 1-step)",pi[1 x income],2.29197,1.20857,2256,
+cereal,Random coefficients (BLP),"GMM (pyblp, 1-step)",pi[1 x age],1.28443,0.631215,2256,
+cereal,Random coefficients (BLP),"GMM (pyblp, 1-step)",sigma[prices],3.31249,1.34018,2256,
+cereal,Random coefficients (BLP),"GMM (pyblp, 1-step)",pi[prices x income],588.325,270.441,2256,
+cereal,Random coefficients (BLP),"GMM (pyblp, 1-step)",pi[prices x income_squared],-30.192,14.1012,2256,
+cereal,Random coefficients (BLP),"GMM (pyblp, 1-step)",pi[prices x child],11.0546,4.12256,2256,
+cereal,Random coefficients (BLP),"GMM (pyblp, 1-step)",sigma[sugar],-0.00578355,0.0135045,2256,
+cereal,Random coefficients (BLP),"GMM (pyblp, 1-step)",pi[sugar x income],-0.384954,0.121458,2256,
+cereal,Random coefficients (BLP),"GMM (pyblp, 1-step)",pi[sugar x age],0.0522343,0.0259853,2256,
+cereal,Random coefficients (BLP),"GMM (pyblp, 1-step)",sigma[mushy],0.0934145,0.185433,2256,
+cereal,Random coefficients (BLP),"GMM (pyblp, 1-step)",pi[mushy x income],0.748372,0.802108,2256,
+cereal,Random coefficients (BLP),"GMM (pyblp, 1-step)",pi[mushy x age],-1.35339,0.667109,2256,
+autos,"Logit, characteristics",OLS,prices,-0.0886393,0.00433089,2217,
+autos,"Logit, characteristics",OLS,const,-10.0716,0.257569,2217,
+autos,"Logit, characteristics",OLS,hpwt,-0.124308,0.279036,2217,
+autos,"Logit, characteristics",OLS,air,-0.0343398,0.0709801,2217,
+autos,"Logit, characteristics",OLS,mpd,0.26502,0.0424521,2217,
+autos,"Logit, characteristics",OLS,space,2.34209,0.124561,2217,
+autos,"Logit, characteristics",2SLS,prices,-0.134084,0.0115098,2217,36.0296
+autos,"Logit, characteristics",2SLS,const,-9.92073,0.265198,2217,
+autos,"Logit, characteristics",2SLS,hpwt,1.17923,0.408457,2217,
+autos,"Logit, characteristics",2SLS,air,0.468308,0.136671,2217,
+autos,"Logit, characteristics",2SLS,mpd,0.174796,0.046832,2217,
+autos,"Logit, characteristics",2SLS,space,2.29335,0.127963,2217,

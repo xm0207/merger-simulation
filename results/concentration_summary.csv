@@ -1,0 +1,5 @@
+merger,basis,markets,combined_share_pct_mean,combined_share_pct_min,combined_share_pct_max,markets_combined_share_25_plus,hhi_pre_mean,hhi_post_mean,delta_hhi_mean,delta_hhi_min,delta_hhi_max,markets_in_eu_safe_harbour,hhi_pre_of_average_shares,hhi_post_of_average_shares,delta_hhi_of_average_shares
+Firm 3 + Firm 4,volume,94,21.481,2.425,58.630,36,3408.194,3643.936,235.743,2.889,1416.541,47,3053.466,3284.015,230.548
+Firm 3 + Firm 4,value,94,21.197,2.725,57.921,33,3380.565,3609.172,228.607,3.713,1420.039,45,3040.897,3265.352,224.455
+Firm 1 + Firm 2,volume,94,74.499,40.214,97.311,94,3408.194,5992.563,2584.369,808.357,4016.673,0,3053.466,5797.212,2743.746
+Firm 1 + Firm 2,value,94,74.510,40.575,97.020,94,3380.565,5967.746,2587.181,816.848,3898.676,0,3040.897,5795.039,2754.141

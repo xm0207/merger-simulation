@@ -1,0 +1,7 @@
+model,merger,markets,merging_price_change_pct,rivals_price_change_pct,all_price_change_pct,max_product_market_price_change_pct,consumer_surplus_change_pct_of_spending,merging_profit_change_pct_of_spending,rivals_profit_change_pct_of_spending,merging_margin_pre_pct,merging_guppi_pct,merging_cmcr_pct,merging_cmcr_pct_median,merging_nonpositive_costs,all_nonpositive_costs,max_foc_residual_pre
+Logit (2SLS),Firm 3 + Firm 4,94,1.7418,0.0392,0.3960,12.5652,-0.3509,0.0210,0.1485,32.3799,1.8232,3.3590,1.7554,0,1,0.0000
+Nested logit (rho = 0.5),Firm 3 + Firm 4,94,2.6001,0.1624,0.6732,20.6630,-0.6021,0.0718,0.3687,32.5403,2.6909,5.4585,2.4454,0,13,0.0000
+Random coefficients (BLP),Firm 3 + Firm 4,94,2.7006,0.1173,0.6586,18.7919,-0.5815,0.0508,0.3233,31.1278,2.5289,4.7962,2.6673,0,4,0.0000
+Logit (2SLS),Firm 1 + Firm 2,94,6.9550,0.1682,5.2541,40.8398,-4.4811,0.6723,0.5836,37.9090,6.8861,21.0052,13.1462,1,1,0.0000
+Nested logit (rho = 0.5),Firm 1 + Firm 2,94,14.9574,1.0549,11.4732,85.6707,-9.3828,2.5078,1.7612,43.5960,11.0655,67.1820,33.0160,13,13,0.0000
+Random coefficients (BLP),Firm 1 + Firm 2,94,12.7857,0.8373,9.7912,109.3781,-8.1347,1.6933,1.3997,41.8712,9.8210,45.4415,26.6918,4,4,0.0000
